@@ -1,8 +1,0 @@
-How to run the model?
-
-1. In your local directory you need to have the best_model.pkl file decompressed
-2. Once in your local directory inside the terminal run: pip3 install -r requirements.txt
-3. Then run python3 ingestion.py path_to_file
-
-The path_to_file should be the path to the csv you want to run the model on and create the db.
-In my case is test_wine_dataset2.csv. "python3 ingestion.py test_wine_dataset2.csv".
